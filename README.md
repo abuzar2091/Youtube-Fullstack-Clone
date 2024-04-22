@@ -17,11 +17,11 @@ This repository hosts the codebase for YouTube, a YouTube clone built using the 
 
 # Technologies used:
 
-MongoDB: Database storage for user information and video metadata.
-Express.js: Backend framework for handling API requests.
-React.js: Frontend library for building user interfaces.
-Node.js: Server-side scripting for backend operations.
-Cloudinary: Cloud storage for securely storing uploaded videos
+- MongoDB: Database storage for user information and video metadata.
+- Express.js: Backend framework for handling API requests.
+- React.js: Frontend library for building user interfaces.
+- Node.js: Server-side scripting for backend operations.
+- Cloudinary: Cloud storage for securely storing uploaded videos
 
 
 # Setup Instructions
