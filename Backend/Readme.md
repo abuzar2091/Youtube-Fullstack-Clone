@@ -23,6 +23,7 @@ This repository contains the backend implementation for YouTube, a platform wher
 
 # Setup Instructions
 To get started with this repository, follow these steps:
+If you want only the backend:
  ```bash
 1. Clone the repository to your local machine
 - git clone <repository_url>
